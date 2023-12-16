@@ -26,3 +26,4 @@ C:\Users\mukes\OneDrive\Desktop\.Net\college\obj\Debug\net8.0\refint\.Net.dll
 C:\Users\mukes\OneDrive\Desktop\.Net\college\obj\Debug\net8.0\.Net.pdb
 C:\Users\mukes\OneDrive\Desktop\.Net\college\obj\Debug\net8.0\.Net.genruntimeconfig.cache
 C:\Users\mukes\OneDrive\Desktop\.Net\college\obj\Debug\net8.0\ref\.Net.dll
+C:\Users\mukes\OneDrive\Desktop\.Net\college\obj\Debug\net8.0\.Net.sourcelink.json
